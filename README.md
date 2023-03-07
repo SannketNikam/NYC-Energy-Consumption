@@ -1,1 +1,1 @@
-# NYC-Energy-Consumption--Time-Series-Analysis-
+# New York City Energy Consumption
