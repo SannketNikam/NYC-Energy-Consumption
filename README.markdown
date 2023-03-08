@@ -33,7 +33,7 @@ conda install -c anaconda ephem
 ```
 conda install -c conda-forge fbprophet
 ```
-8. To avoid ipywigets and plotly error install
+8. To avoid error while importing ipywigets and plotly
 ```
 conda install -c conda-forge ipywidgets
 ```
