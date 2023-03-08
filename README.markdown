@@ -40,4 +40,4 @@ conda install -c conda-forge ipywidgets
 ```
 conda install -c plotly plotly
 ```
-9. Open Anaconda Navigator and goto env-name and install Jupyter Notebook **[Imp]**
+9. Open Anaconda Navigator and goto fbprophet and install Jupyter Notebook **[Imp]**
