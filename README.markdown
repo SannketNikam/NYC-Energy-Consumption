@@ -1,6 +1,15 @@
 # New York City Energy Consumption
 
-# Steps for FBProphet installation:
+>## NYC Energy Demand using Univariate Arima and FbProphet and Multivariate FbProphet
+<img src="../Images/../NYC%20Energy%20Consumption/Images/NYC_Energy_Demand.png"/>
+
+<hr>
+Notebook files:<br>
+1. <a href="../Notebooks/1. Auto Arima Univariate.ipynb">Auto Arima Univariate</a><br>
+2. <a href="../Notebooks/1. FbProphet  Univariate.ipynb">FbProphet Univariate</a><br>
+3. <a href="../Notebooks/1. FbProphet  Multivariate.ipynb">FbProphet Multivariate</a><br>
+<hr>
+## Steps for FBProphet installation:
 
 1. Create conda environment with python version 3.7
 ```
@@ -40,4 +49,4 @@ conda install -c conda-forge ipywidgets
 ```
 conda install -c plotly plotly
 ```
-9. Open Anaconda Navigator and goto fbprophet and install Jupyter Notebook **[Imp]**
+9. **[Imp]**  Open Anaconda Navigator, under environments select fbprophet and install Jupyter Notebook inside fbprophet environment.
