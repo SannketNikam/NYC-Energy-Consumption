@@ -4,7 +4,8 @@
 <img src="https://github.com/SannketNikam/NYC-Energy-Consumption/blob/main/Images/NYC_Energy_Demand.png"/>
 
 <hr>
-Notebook files:<br>
+
+## Notebook files:
 1. <a href="https://github.com/SannketNikam/NYC-Energy-Consumption/blob/main/Notebooks/1.%20Auto%20Arima%20Univariate.ipynb">Auto Arima Univariate</a><br>
 2. <a href="https://github.com/SannketNikam/NYC-Energy-Consumption/blob/main/Notebooks/2.%20FbProphet%20Univariate.ipynb">FbProphet Univariate</a><br>
 3. <a href="https://github.com/SannketNikam/NYC-Energy-Consumption/blob/main/Notebooks/3.%20FbProphet%20Multivariate.ipynb">FbProphet Multivariate</a><br>
