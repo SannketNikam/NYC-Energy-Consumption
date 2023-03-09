@@ -9,6 +9,7 @@ Notebook files:<br>
 2. <a href="https://github.com/SannketNikam/NYC-Energy-Consumption/blob/main/Notebooks/2.%20FbProphet%20Univariate.ipynb">FbProphet Univariate</a><br>
 3. <a href="https://github.com/SannketNikam/NYC-Energy-Consumption/blob/main/Notebooks/3.%20FbProphet%20Multivariate.ipynb">FbProphet Multivariate</a><br>
 <hr>
+
 ## Steps for FBProphet installation:
 
 1. Create conda environment with python version 3.7
