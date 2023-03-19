@@ -53,7 +53,7 @@ conda install -c plotly plotly
 ```
 9. **[Imp]**  Open Anaconda Navigator, under environments select fbprophet and install Jupyter Notebook inside fbprophet environment.
 
-<p style="text-align: center;">OR</p>
+<p style="text-align: center;"><b>OR</b></p>
 
 ```
 conda install -c anaconda jupyter
