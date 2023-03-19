@@ -51,4 +51,10 @@ conda install -c conda-forge ipywidgets
 ```
 conda install -c plotly plotly
 ```
-9. **[Imp]**  Open Anaconda Navigator, under environments select fbprophet and install Jupyter Notebook inside fbprophet environment.
+1. **[Imp]**  Open Anaconda Navigator, under environments select fbprophet and install Jupyter Notebook inside fbprophet environment.
+```
+conda install -c anaconda jupyter
+```
+```
+conda install -c anaconda notebook
+```
