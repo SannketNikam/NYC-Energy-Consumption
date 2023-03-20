@@ -23,7 +23,7 @@ conda activate fbprophet
 ```
 3. Install C++ Compiler
 ```
-conda install libpython m2w64-toolchain -c msys2
+numpyconda install libpython m2w64-toolchain -c msys2
 ```
 4. Install Dependencies
 ```

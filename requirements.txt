@@ -1,0 +1,12 @@
+fbprophet
+pmdarima
+numpy
+libpython
+cython
+matplotlib
+scipy
+pandas
+pystan
+ephem
+ipywidgets
+plotly
