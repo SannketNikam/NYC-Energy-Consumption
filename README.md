@@ -1,7 +1,9 @@
 # New York City Energy Consumption
 
 >## NYC Energy Consumption Forecasting using Univariate Arima, Univariate FbProphet and Multivariate FbProphet
-<img src="https://github.com/SannketNikam/NYC-Energy-Consumption/blob/main/Images/NYC_Energy_Demand.png"/>
+
+<!-- <img src="https://github.com/SannketNikam/NYC-Energy-Consumption/blob/main/Images/NYC_Energy_Demand.png"/> -->
+![NYC_Energy_Demand](https://github.com/SannketNikam/NYC-Energy-Consumption/assets/77570082/9ed1eafc-1464-48fc-920a-7d3977866def)
 
 <hr>
 
